@@ -1,0 +1,4 @@
+Digest username="test", realm="AXIS_00408CC9A560", nonce="024945e1Y185536047516e54d45a9304b7496fe974586c", uri="/incl/version.shtml", response="bd499e68d7dd00f05b6682f959df1fff", qop="auth", cnonce="MTEwNDYyMTc1NDpEVk0=", nc="00000285"   
+Digest username="test", realm="AXIS_00408CCA0557", nonce="03195a5bY0516839445590f3e0af40f8161222a21bcb40", uri="/incl/version.shtml", response="a8bd2a1baf4f159e91e61cca0c531b6b", qop="auth", cnonce="MTEwNDYyMTc4NTpEVk0=", nc=00000287,    
+Digest username="test", realm="AXIS_00408CC45327", nonce="02107619Y490184da43f37ac4aa226054c441e10210ef6", uri="/incl/version.shtml", response="ea74a846be9b0b2f2633f574d5bd07c9", qop="auth", cnonce="MTEwNDYyMTg3OTpEVk0=", nc=00000009,
+Digest username="test", realm="AXIS_00408CBCB845", nonce="01b2d1e2Y965572d6212640462a97c3d3c5fc866ab3469", uri="/incl/version.shtml", response="917ea107cfa7042655925ca97c532d2b", qop="auth", cnonce="MTEwNDYyMTg3OTpEVk0=", nc=00000003, 
